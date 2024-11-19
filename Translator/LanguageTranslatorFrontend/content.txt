@@ -1,0 +1,5 @@
+npx @react-native-community/cli@latest init LanguageTranslator
+npm start
+npx react-native run-android
+npm run android
+npx react-native doctor
